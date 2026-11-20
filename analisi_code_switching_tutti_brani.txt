@@ -1,0 +1,121 @@
+=== ANALISI QUALITATIVA CODE-SWITCHING (TUTTI I 40 BRANI) ===
+
+• Traccia_01 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_02 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, it, la, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_03 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_04 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_05 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_06 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: ca, en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_07 | Reale: GENERATO_AI | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_08 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_09 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, la
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_10 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_11 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_12 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: es, fr
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_13 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_14 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_15 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_16 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_17 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, la, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_18 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_19 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_20 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_21 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_22 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_23 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, la
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_24 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_25 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_26 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_27 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, la, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_28 | Reale: GENERATO_AI | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_29 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, la
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_30 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: es
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_31 | Reale: GENERATO_AI | Blind: UMANO | Funzione: ERRORE | Lingue: ca, en, es, fr, it, la
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_32 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_33 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: de, en, es, fr, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_34 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: de, en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_35 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_36 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_37 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_38 | Reale: ORIGINALE_ROSALIA | Blind: GENERATO_AI | Funzione: ERRORE | Lingue: en, es, it
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_39 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: en, es, fr, it, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}
+
+• Traccia_40 | Reale: ORIGINALE_ROSALIA | Blind: UMANO | Funzione: ERRORE | Lingue: es, fr, pt
+  Motivazione: Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}

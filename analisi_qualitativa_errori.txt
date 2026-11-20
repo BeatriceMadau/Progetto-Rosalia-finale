@@ -1,0 +1,48 @@
+--- FALSI POSITIVI (Rosalía scambiata per AI) ---
+
+• Traccia_02 (Traccia_4): Il testo presenta ripetizioni meccaniche (es. 'scared' e 'fear' elencati decine di volte, frasi identiche come 'ego sum nihil ego sum lux mundi'), strutture iper‑regolari e salti tematici incoerenti tipici di un modello linguistico, più che di una composizione umana consapevole.
+
+• Traccia_03 (Traccia_11): Il testo mostra una struttura ricorsiva e iper‑regolare ("X cabe en Y", "X occupies Y") ripetuta meccanicamente, mescolando lingue e riferimenti senza coesione tematica tipica di un flusso di coscienza umano; la mancanza di punteggiatura e le transizioni brusche indicano un pattern algoritmico più che una scrittura spontanea.
+
+• Traccia_05 (Traccia_26): Il testo presenta ripetizioni meccaniche (la stessa frase inglese ripetuta più volte), mescolanza incoerente di spagnolo e inglese, assenza di punteggiatura e struttura sintattica irregolare tipica di output generati da modello linguistico, non di scrittura umana spontanea.
+
+• Traccia_06 (Traccia_25): Il testo mostra eccessiva ripetizione di frasi, transizioni brusche tra spagnolo e inglese e sequenze senza coerenza narrativa tipiche di un modello linguistico, mentre la struttura rimane iper‑regolare e priva di variazioni stilistiche tipiche di un autore umano.
+
+• Traccia_08 (Traccia_12): Il testo presenta ripetizioni eccessive di frasi (es. "sauvignon blanc a tu lado mi futuro será dorado..."), costruzioni sintattiche irregolari e una coerenza tematica debole tipiche dei generatori di linguaggio, più che di uno stile umano coerente.
+
+• Traccia_12 (Traccia_29): Il testo segue una struttura iper‑regolare (lettera‑a‑z con la formula "lettera de ..."), con ripetizioni meccaniche e poca variazione stilistica, tipica di una generazione algoritmica più che di una scrittura umana spontanea.
+
+• Traccia_13 (Traccia_24): Ripetizioni iper‑regolari (es. 'motomami' 20+ volte), mancanza di punteggiatura e struttura sintattica monotona indicano un pattern algoritmico più che una scrittura fluida umana.
+
+• Traccia_18 (Traccia_27): Ripetizioni meccaniche (es. 'keep it cute manito keep it cute', 'one one...'), mescolanza incoerente di lingue e frasi senza coesione tematica tipiche di un output algoritmico più che di una scrittura umana spontanea.
+
+• Traccia_21 (Traccia_21): Ripetizioni eccessive, struttura frammentata e mancanza di coerenza sintattica tipiche di un modello linguistico
+
+• Traccia_25 (Traccia_20): Il testo mostra eccessiva ripetizione di frasi (es. "pa ti naki chicken teriyaki", "rosa sin tarjeta se las mando a tu gata"), sequenze iper‑regolari e accostamenti di parole poco coerenti tipici di un modello linguistico, più che di una composizione umana con variazioni tematiche.
+
+• Traccia_33 (Traccia_6): Ripetizioni estremamente regolari e frasi identiche (es. "seine angst ist meine angst", "i ll fuck you till you love me") mescolate a più lingue indicano un pattern algoritmico più che una scrittura umana spontanea.
+
+• Traccia_35 (Traccia_9): Ripetizioni iper‑regolari di "de madrugá" e frasi frammentarie, struttura poco coerente e mescolanza di lingue tipiche di testi generati da modello, indicano una produzione algoritmica più che umana.
+
+• Traccia_37 (Traccia_16): Il testo mostra eccessiva ripetizione di frasi identiche (es. "saoko papi", "pu pu pu pu", "me transformo"), assenza di coesione semantica e struttura sintattica irregolare tipica di output generati da modelli linguistici che riciclano token in modo meccanico, più che di un flusso creativo umano.
+
+• Traccia_38 (Traccia_18): Il testo presenta ripetizioni iper‑regolari, frasi quasi identiche riciclate più volte, errori ortografici e sintassi incoerente tipici di un modello linguistico che genera testo in modo meccanico piuttosto che di una scrittura fluida e variegata umana.
+
+
+--- FALSI NEGATIVI (AI scambiata per Rosalía) ---
+
+• Traccia_04 (Elegia Introspettiva): Il testo presenta una struttura estremamente fluida e asimmetrica, con una frase unica priva di punteggiatura regolare, errori tipografici (es. "es escombro"), lessico ricco e metafore personali che non seguono schemi ricorrenti tipici dei modelli AI; la densità di immagini poetiche e la mancanza di pattern ripetitivi standard suggeriscono una produzione umana.
+
+• Traccia_10 (Flamenco-Urbano Minimal): Il testo mostra variazioni sintattiche, riferimenti culturali specifici (mantilla, tablao, 808, motomami) e una struttura di ripetizioni tipica di un freestyle umano, con irregolarità e giochi di parole che non seguono un modello algoritmico rigido.
+
+• Traccia_16 (Outro Spoken Word): Il testo mostra un flusso di coscienza irregolare, mescolanza spontanea di spagnolo, italiano e inglese, interruzioni, errori tipografici e salti tematici tipici di una scrittura umana piuttosto che di un modello AI più coerente.
+
+• Traccia_17 (Corale Lirico): Il testo mostra una mescolanza irregolare di più lingue, giochi di parole, errori tipografici e metafore poetiche tipiche di uno scrittore umano; la sintassi è asimmetrica e non segue i pattern di coerenza e ripetizione tipici dei generatori AI.
+
+• Traccia_22 (Codigo Pop & Ad-libs): Il testo mostra ripetizioni irregolari, mescolanza di spagnolo, inglese e slang, frasi frammentate e flusso caotico tipico di un flusso di coscienza umano (es. "clac", "freno acelero", "reset reset delete"), con poca coerenza strutturale e uso di espressioni colloquiali che le generazioni AI tendono a uniformare.
+
+• Traccia_23 (Misticismo Urbano): Il testo mostra mescolanze linguistiche irregolari, interruzioni tematiche improvvise e errori di sintassi tipici di una composizione umana spontanea, piuttosto che della coerenza strutturata di un modello AI.
+
+• Traccia_27 (Requiem Creativo): Il testo mescola più lingue, presenta errori tipografici, interruzioni improvvise e asimmetrie stilistiche tipiche di una composizione umana spontanea, mentre manca di pattern ripetitivi o di coerenza strutturale tipica dei generatori AI.
+
+• Traccia_31 (Voci Sovrapposte): Il testo mostra una mescolanza irregolare di lingue, frasi frammentate, metafore poetiche e incoerenze tipiche della scrittura creativa umana, con poca coerenza sintattica e ripetizioni non sistematiche tipiche di un algoritmo.

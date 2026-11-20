@@ -1,0 +1,844 @@
+{
+    "brani": [
+        {
+            "codice_traccia": "Traccia_01",
+            "titolo_reale": "Traccia_10",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_02",
+            "titolo_reale": "Traccia_4",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "it",
+                "la",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "it",
+                "la",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_03",
+            "titolo_reale": "Traccia_11",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_04",
+            "titolo_reale": "Elegia Introspettiva",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_05",
+            "titolo_reale": "Traccia_26",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_06",
+            "titolo_reale": "Traccia_25",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_07",
+            "titolo_reale": "Beat Fragmentado",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es"
+            ],
+            "lingue_principali": [
+                "en",
+                "es"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_08",
+            "titolo_reale": "Traccia_12",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_09",
+            "titolo_reale": "Traccia_5",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_10",
+            "titolo_reale": "Flamenco-Urbano Minimal",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_11",
+            "titolo_reale": "Traccia_22",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_12",
+            "titolo_reale": "Traccia_29",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "es",
+                "fr"
+            ],
+            "lingue_principali": [
+                "es",
+                "fr"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_13",
+            "titolo_reale": "Traccia_24",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_14",
+            "titolo_reale": "Traccia_19",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_15",
+            "titolo_reale": "Traccia_13",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_16",
+            "titolo_reale": "Outro Spoken Word",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_17",
+            "titolo_reale": "Corale Lirico",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la",
+                "pt"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_18",
+            "titolo_reale": "Traccia_27",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_19",
+            "titolo_reale": "Traccia_14",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_20",
+            "titolo_reale": "Traccia_23",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_21",
+            "titolo_reale": "Traccia_21",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_22",
+            "titolo_reale": "Codigo Pop & Ad-libs",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_23",
+            "titolo_reale": "Misticismo Urbano",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_24",
+            "titolo_reale": "Traccia_30",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_25",
+            "titolo_reale": "Traccia_20",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_26",
+            "titolo_reale": "Traccia_17",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_27",
+            "titolo_reale": "Requiem Creativo",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la",
+                "pt"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_28",
+            "titolo_reale": "Balada Saoko",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_29",
+            "titolo_reale": "Traccia_3",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_30",
+            "titolo_reale": "Traccia_1",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "es"
+            ],
+            "lingue_principali": [
+                "es"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_31",
+            "titolo_reale": "Voci Sovrapposte",
+            "origine_reale": "GENERATO_AI",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "lingue_principali": [
+                "ca",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "la"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_32",
+            "titolo_reale": "Traccia_28",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_33",
+            "titolo_reale": "Traccia_6",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "lingue_principali": [
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_34",
+            "titolo_reale": "Traccia_7",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "de",
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_35",
+            "titolo_reale": "Traccia_9",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_36",
+            "titolo_reale": "Traccia_15",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_37",
+            "titolo_reale": "Traccia_16",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_38",
+            "titolo_reale": "Traccia_18",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "GENERATO_AI",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "it"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "it"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_39",
+            "titolo_reale": "Traccia_2",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "lingue_principali": [
+                "en",
+                "es",
+                "fr",
+                "it",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        },
+        {
+            "codice_traccia": "Traccia_40",
+            "titolo_reale": "Traccia_8",
+            "origine_reale": "ORIGINALE_ROSALIA",
+            "giudizio_blind_test": "UMANO",
+            "lingue_euristiche": [
+                "es",
+                "fr",
+                "pt"
+            ],
+            "lingue_principali": [
+                "es",
+                "fr",
+                "pt"
+            ],
+            "funzione_code_switching": "ERRORE",
+            "motivazione": "Error code: 401 - {'error': {'message': 'Invalid API Key', 'type': 'invalid_request_error', 'code': 'invalid_api_key'}}"
+        }
+    ]
+}
