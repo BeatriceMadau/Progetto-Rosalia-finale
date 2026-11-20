@@ -1,0 +1,435 @@
+[
+    {
+        "codice_ai": "Traccia_04",
+        "titolo_ai": "Elegia Introspettiva",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_39",
+                "titolo_originale": "Traccia_2",
+                "similarita_coseno": 0.0998,
+                "parole_comuni_esempio": [
+                    "amor",
+                    "aprendi",
+                    "cristal",
+                    "eterno",
+                    "lengua",
+                    "mio",
+                    "mis",
+                    "nunca",
+                    "tiene",
+                    "vuelve"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_34",
+                "titolo_originale": "Traccia_7",
+                "similarita_coseno": 0.0923,
+                "parole_comuni_esempio": [
+                    "nunca",
+                    "oro",
+                    "pena",
+                    "perla",
+                    "tan",
+                    "tiene"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_01",
+                "titolo_originale": "Traccia_10",
+                "similarita_coseno": 0.0814,
+                "parole_comuni_esempio": [
+                    "amor",
+                    "antes",
+                    "nunca",
+                    "sigo",
+                    "silencio",
+                    "sombra",
+                    "tan",
+                    "tiene"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_07",
+        "titolo_ai": "Beat Fragmentado",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_18",
+                "titolo_originale": "Traccia_27",
+                "similarita_coseno": 0.1968,
+                "parole_comuni_esempio": [
+                    "cute",
+                    "quiero"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_13",
+                "titolo_originale": "Traccia_24",
+                "similarita_coseno": 0.1199,
+                "parole_comuni_esempio": [
+                    "motomami",
+                    "pesa",
+                    "quiero"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_33",
+                "titolo_originale": "Traccia_6",
+                "similarita_coseno": 0.0677,
+                "parole_comuni_esempio": [
+                    "love",
+                    "solo"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_10",
+        "titolo_ai": "Flamenco-Urbano Minimal",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_13",
+                "titolo_originale": "Traccia_24",
+                "similarita_coseno": 0.1481,
+                "parole_comuni_esempio": [
+                    "motomami"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_14",
+                "titolo_originale": "Traccia_19",
+                "similarita_coseno": 0.1172,
+                "parole_comuni_esempio": [
+                    "cantaora",
+                    "dios",
+                    "dos",
+                    "fuego",
+                    "igual",
+                    "siete"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_39",
+                "titolo_originale": "Traccia_2",
+                "similarita_coseno": 0.112,
+                "parole_comuni_esempio": [
+                    "mal",
+                    "mio",
+                    "perdon",
+                    "pureza",
+                    "tiene"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_16",
+        "titolo_ai": "Outro Spoken Word",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_20",
+                "titolo_originale": "Traccia_23",
+                "similarita_coseno": 0.1099,
+                "parole_comuni_esempio": [
+                    "amor",
+                    "antes",
+                    "aqui",
+                    "dia",
+                    "eres",
+                    "he",
+                    "nadie",
+                    "ojos",
+                    "pecho",
+                    "pico"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_38",
+                "titolo_originale": "Traccia_18",
+                "similarita_coseno": 0.1023,
+                "parole_comuni_esempio": [
+                    "bien",
+                    "he",
+                    "nada",
+                    "paso",
+                    "pecho",
+                    "quiero",
+                    "sabe",
+                    "siempre",
+                    "tenia",
+                    "veces"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_13",
+                "titolo_originale": "Traccia_24",
+                "similarita_coseno": 0.1023,
+                "parole_comuni_esempio": [
+                    "motomami",
+                    "pesa",
+                    "quiero"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_17",
+        "titolo_ai": "Corale Lirico",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_37",
+                "titolo_originale": "Traccia_16",
+                "similarita_coseno": 0.053,
+                "parole_comuni_esempio": [
+                    "ja",
+                    "m"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_20",
+                "titolo_originale": "Traccia_23",
+                "similarita_coseno": 0.0469,
+                "parole_comuni_esempio": [
+                    "deu",
+                    "l",
+                    "m",
+                    "soc"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_38",
+                "titolo_originale": "Traccia_18",
+                "similarita_coseno": 0.0419,
+                "parole_comuni_esempio": [
+                    "mala",
+                    "sangre"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_22",
+        "titolo_ai": "Codigo Pop & Ad-libs",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_13",
+                "titolo_originale": "Traccia_24",
+                "similarita_coseno": 0.0824,
+                "parole_comuni_esempio": [
+                    "okay",
+                    "pesa"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_37",
+                "titolo_originale": "Traccia_16",
+                "similarita_coseno": 0.0738,
+                "parole_comuni_esempio": [
+                    "bebe",
+                    "chica",
+                    "dios",
+                    "mira",
+                    "papi"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_25",
+                "titolo_originale": "Traccia_20",
+                "similarita_coseno": 0.0696,
+                "parole_comuni_esempio": [
+                    "gata"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_23",
+        "titolo_ai": "Misticismo Urbano",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_02",
+                "titolo_originale": "Traccia_4",
+                "similarita_coseno": 0.061,
+                "parole_comuni_esempio": [
+                    "garganta",
+                    "lux",
+                    "luz",
+                    "mundi",
+                    "piel"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_14",
+                "titolo_originale": "Traccia_19",
+                "similarita_coseno": 0.0489,
+                "parole_comuni_esempio": [
+                    "igual",
+                    "siete"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_39",
+                "titolo_originale": "Traccia_2",
+                "similarita_coseno": 0.0485,
+                "parole_comuni_esempio": [
+                    "cielo",
+                    "cristal",
+                    "mar",
+                    "pureza",
+                    "solo"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_27",
+        "titolo_ai": "Requiem Creativo",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_20",
+                "titolo_originale": "Traccia_23",
+                "similarita_coseno": 0.0812,
+                "parole_comuni_esempio": [
+                    "amor",
+                    "deu",
+                    "esto",
+                    "l",
+                    "m",
+                    "miro",
+                    "soc"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_19",
+                "titolo_originale": "Traccia_14",
+                "similarita_coseno": 0.0702,
+                "parole_comuni_esempio": [
+                    "com",
+                    "em",
+                    "onde"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_29",
+                "titolo_originale": "Traccia_3",
+                "similarita_coseno": 0.0672,
+                "parole_comuni_esempio": [
+                    "amor",
+                    "dolor",
+                    "et",
+                    "gracia",
+                    "l",
+                    "m",
+                    "qui",
+                    "s",
+                    "viva"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_28",
+        "titolo_ai": "Balada Saoko",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_13",
+                "titolo_originale": "Traccia_24",
+                "similarita_coseno": 0.3703,
+                "parole_comuni_esempio": [
+                    "motomami"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_12",
+                "titolo_originale": "Traccia_29",
+                "similarita_coseno": 0.2159,
+                "parole_comuni_esempio": [
+                    "m",
+                    "motomami",
+                    "t"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_37",
+                "titolo_originale": "Traccia_16",
+                "similarita_coseno": 0.0789,
+                "parole_comuni_esempio": [
+                    "chica",
+                    "dices",
+                    "fuck",
+                    "m",
+                    "nada",
+                    "papi"
+                ]
+            }
+        ]
+    },
+    {
+        "codice_ai": "Traccia_31",
+        "titolo_ai": "Voci Sovrapposte",
+        "top_3_originali": [
+            {
+                "rank": 1,
+                "codice_originale": "Traccia_39",
+                "titolo_originale": "Traccia_2",
+                "similarita_coseno": 0.0501,
+                "parole_comuni_esempio": [
+                    "cielo",
+                    "mar",
+                    "mio",
+                    "nunca",
+                    "vuelve"
+                ]
+            },
+            {
+                "rank": 2,
+                "codice_originale": "Traccia_09",
+                "titolo_originale": "Traccia_5",
+                "similarita_coseno": 0.0489,
+                "parole_comuni_esempio": [
+                    "grave",
+                    "mio"
+                ]
+            },
+            {
+                "rank": 3,
+                "codice_originale": "Traccia_02",
+                "titolo_originale": "Traccia_4",
+                "similarita_coseno": 0.0457,
+                "parole_comuni_esempio": [
+                    "lux",
+                    "rota",
+                    "vuelve"
+                ]
+            }
+        ]
+    }
+]
